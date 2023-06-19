@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @imhugos
-- 👀 I’m interested in Laravel, Vue.js, Flutter
-- 🌱 I’m currently learning Flutter
+- 👋 Hi, @imhugos
+- 👀 I’m interested in Laravel, WordPress Dev, Vue.js, Flutter
 
 <!---
 imhugos/imhugos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
