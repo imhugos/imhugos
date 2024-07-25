@@ -1,5 +1,5 @@
 - 👋 Hi, @imhugos
-- 👀 I’m interested in Laravel, WordPress Dev, Vue.js, Flutter
+- 👀 I’m interested in Laravel, WordPress dev, Vue.js, TailwindCSS and Flutter
 
 <!---
 imhugos/imhugos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
